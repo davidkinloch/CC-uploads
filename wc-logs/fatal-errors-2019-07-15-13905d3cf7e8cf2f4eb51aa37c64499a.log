@@ -1,0 +1,360 @@
+2019-07-15T11:37:10+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T13:09:45+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T13:21:16+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T14:37:04+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T15:44:04+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T16:43:49+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T16:48:54+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T16:57:45+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T16:58:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:00:11+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:01:02+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:12:14+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:13:10+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:13:56+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:15:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:15:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:16:41+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:17:27+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:18:38+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:19:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:20:34+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:21:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:23:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:24:18+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:26:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:31:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:32:51+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:34:06+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:35:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:36:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:37:43+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:39:44+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:41:03+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:42:03+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:42:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:43:53+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:45:03+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:47:18+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:49:22+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-15T17:50:12+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+

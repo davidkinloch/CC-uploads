@@ -1,0 +1,18 @@
+2019-07-16T12:31:57+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Kadence_Woomail_Designer::add_email_header(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php:538
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): Kadence_Woomail_Designer->add_email_header('Booking Confirm...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce-bookings/templates/emails/customer-booking-confirmed.php(23): do_action('woocommerce_ema...', 'Booking Confirm...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce-bookings/includes/emails/class-wc-email-booking-confirmed.php(123): wc_get_template('emails/custo in /var/www/html/wp-content/plugins/kadence-woocommerce-email-designer/kadence-woocommerce-email-designer.php on line 538
+
+2019-07-16T12:33:04+00:00 CRITICAL Uncaught Error: Class 'WPDesk_Flexible_Shipping_Logger_Factory' not found in /var/www/html/wp-content/plugins/flexible-shipping/classes/class-flexible-shipping-plugin.php:76
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wpdesk-helper/vendor/wpdesk/wp-builder/src/Builder/InfoBuilder.php(34): Flexible_Shipping_Plugin->__construct(Object(WPDesk_Plugin_Info))
+#1 /var/www/html/wp-content/plugins/wpdesk-helper/vendor/wpdesk/wp-builder/src/BuildDirector/LegacyBuildDirector.php(22): WPDesk\PluginBuilder\Builder\InfoBuilder->build_plugin()
+#2 /var/www/html/wp-content/plugins/flexible-shipping/plugin-create.php(13): WPDesk\PluginBuilder\BuildDirector\LegacyBuildDirector->build_plugin()
+#3 /var/www/html/wp-content/plugins/flexible-shipping/vendor/wpdesk/wp-autoloader/src/Loader/Composer/Composer_Loader.php(61): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-content/plugins/flexible-shipping/vendor/wpdesk/wp-autoloader/src/Loader/Loader_Manager.php(263): WPDesk_Composer_Loader->notify_can_create_plugin()
+#5 /v in /var/www/html/wp-content/plugins/flexible-shipping/classes/class-flexible-shipping-plugin.php on line 76
+
